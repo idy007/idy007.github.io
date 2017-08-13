@@ -15,10 +15,12 @@ tag: [zhanlang2, zhanzheng]
 			如果需要高清资源，请扫描下方二维码添加我的微信号
 					  或者添加我的 QQ 号码
 					  
+---
+### 微信二维码
+![Alt text](./wechat_qrcode.jpg)
 
 
+### ＱＱ号
+![Alt text](./qq_number.jpg)
 
-**微信二维码**
-[!wechat_qrcode](/assets/img/wechat_qrcode.jpg)
-**ＱＱ号**
-[!qq_number](./assets/img/qq_number.jpg)
+
