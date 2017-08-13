@@ -19,6 +19,6 @@ tag: [zhanlang2, zhanzheng]
 
 
 **微信二维码**
-[!wechat_qrcode](wechat_qrcode.jpg)
+[!wechat_qrcode](/assets/img/wechat_qrcode.jpg)
 **ＱＱ号**
-[!qq_number](qq_number.jpg)
+[!qq_number](./assets/img/qq_number.jpg)
