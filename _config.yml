@@ -1,9 +1,7 @@
 logo: # add logo name
-title: Bef - Enjoy Freedom
+title: 爱电影网
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  一个致力于分享优秀好电影的网站，不定时分享博客，分享新上映电影。
 permalink: ':title/'
 #baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "http://idy007.coding.me/idy007" # the base hostname & protocol for your site, e.g. http://example.com
@@ -15,11 +13,11 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: 爱电影网# your name
+about-author: 致力于带给您更优质的电影资源。# about author
 email: 410184673@qq.com # your email
-#phone: (496)-169-6557 # your pnone number
-website: www.idy007.xyz # you website
+phone: 11111111 # your pnone number
+website: http://idy007.xyz # you website
 
 # Social link
 #google_url:    # add url link
