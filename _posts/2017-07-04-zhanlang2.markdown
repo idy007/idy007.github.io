@@ -17,10 +17,10 @@ tag: [zhanlang2, zhanzheng]
 					  
 ---
 ### 微信二维码
-![Alt text](./img/wechat_qrcode.jpg)
+![Alt text](http://upload-images.jianshu.io/upload_images/5649568-ab6edc350c34fc0e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ### ＱＱ号
-![Alt text](./img/qq_number.jpg)
+![Alt text](http://upload-images.jianshu.io/upload_images/5649568-14bd4c9cb80ff780.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
